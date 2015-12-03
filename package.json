@@ -1,0 +1,17 @@
+{
+  "name": "BowlingGame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w --reporter spec ./test/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-shallow-deep-equal": "^1.3.0",
+    "mocha": "^2.3.4"
+  }
+}
